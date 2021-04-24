@@ -6,7 +6,7 @@
 body {
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 16px;
-	background-color: #462755;
+	background-color:#55273c;
 }
 
 .wrapper{
@@ -26,7 +26,7 @@ body {
 }
 
 .news__title{
-    color: #ECDDF3;
+    color: #f576b5;
     position: absolute;
     top: -130px;
 }
@@ -42,13 +42,13 @@ body {
 
 .news__label{
     display: block;
-    color: #ffffff;
+    color: #faeded;
 }
 
 .news__input{
     width: 100%;
     border-radius: 2px;
-    border: 1px solid #ffffff;
+    border: 1px solid #ffe0e0;
     height: 40px;
     padding: 10px;
     font-size: 14px;
@@ -72,7 +72,7 @@ body {
 }
 
 .news__button:hover{
-    background-color: #7F479B;
+    background-color: #ff798f;
     color: #ffffff;
     transition: 0.3s;
 }
